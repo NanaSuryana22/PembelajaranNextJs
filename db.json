@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Thrid Post",
+      "alias": "thrid-post",
+      "link": "posts/thrid-post",
+      "excerpt": "Lorem ipsum dolor sit amet, ballasnajn",
+      "body": "Lorem ipsum dolor sit amet, ballasnajnsjansjansajsnjajsssssssssssssssss Lorem ipsum dolor sit amet, ballasnajnsjansjansajsnjajsssssssssssssssss"
+    },
+    {
+      "id": 2,
+      "title": "Last Post",
+      "alias": "Last-post",
+      "link": "posts/thrid-post",
+      "excerpt": "Lorem ipsum dolor sit amet, ballasnajnsjansjansajsnjajsss",
+      "body": "Lorem ipsum dolor sit amet, ballasnajnsjansjansajsnjajsssssssssssssssss Lorem ipsum dolor sit amet, ballasnajnsjansjansajsnjajsssssssssssssssss"
+    }
+  ]
+}
